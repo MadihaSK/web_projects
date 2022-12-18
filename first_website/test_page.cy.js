@@ -5,6 +5,6 @@ describe('empty spec', () => {
     cy.get('.gLFyf').type("cake{enter}")
     cy.get('.MUFPAc > :nth-child(2) > a').click()
     //cy.{enter}
-    //
+    // bad man
   })
 })
