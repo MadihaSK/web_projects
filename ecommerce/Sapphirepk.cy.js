@@ -5,7 +5,7 @@ describe('Tricentis website', () => {
   // visit website link
     cy.visit('https://pk.sapphireonline.pk/')
 
-    // scroll to bottom footer
+    // scroll to bottom footer.
     cy.scrollTo('bottom')
 
     // click contact us from footer to open contact form
